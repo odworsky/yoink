@@ -139,3 +139,13 @@ img {
 .gfilt {
     background-color: rgba(0, 0, 0, 0.6)
 }
+
+.headr {
+    height: 400px;
+
+}
+
+#workcited {
+    color: white;
+    font-size: 24px;
+}
